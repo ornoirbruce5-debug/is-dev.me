@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "BOTCAHX",
+    "email": "tioclkp02@gmail.com",
+    "repo": "https://github.com"
+  },
+  "subdomain": "admin",
+  "records": {
+    "CNAME": "myporto15.netlify.app"
+  }
+}
