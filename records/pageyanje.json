@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "ornoirbruce5-debug",
+    "email": "ornoirbruce5@gmail.com",
+    "repo": "https://github.com/ornoirbruce5-debug/Pageyanje"
+  },
+  "subdomain": "pageyanje",
+  "records": {
+    "CNAME": "ornoirbruce5-debug.github.io"
+  }
+}
